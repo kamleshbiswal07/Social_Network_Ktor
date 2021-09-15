@@ -1,4 +1,4 @@
-package io.realworld.socialnetwork.ui.theme
+package io.realworld.socialnetwork.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

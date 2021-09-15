@@ -1,4 +1,4 @@
-package io.realworld.socialnetwork.ui.theme
+package io.realworld.socialnetwork.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
